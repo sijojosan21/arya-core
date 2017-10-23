@@ -1,4 +1,4 @@
 # Arya Core Framework
 
 
-Quick Start for web applications.
+Quick Start for rest applications.
